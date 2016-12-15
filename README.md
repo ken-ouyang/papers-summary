@@ -8,7 +8,7 @@ _Created on 2016/12/14_
   * papers about neural style transfer 
     * A Neural Algorithm of Artistic Style 
     * Texture Networks: Feed-forward Synthesis of Textures and Stylized Images
-    * Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+    * [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](neuralnet/Perceptual_Losses_for_Style_Transfer_and_Super_Resolution.md)
     * A Learned Representation for Artisctic Style
     * Instance Normalization: The Missing Ingredient for Fast Stylization
     * Preserving Color in Neural Artistic Style Transfer
@@ -28,6 +28,8 @@ _Created on 2016/12/14_
   * [Build Intelligent Applications](https://www.coursera.org/specializations/machine-learning), a more advanced machine learning course
   * [CS231n:Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), a excellent deep learning course in stanford university
   * [Deep Learning](http://www.deeplearningbook.org/), MIT deep learning book
+
+* Note: The format of Readme.md is borrowed from [aluju/papers](https://github.com/aleju/papers)
 
     
   
