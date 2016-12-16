@@ -3,7 +3,9 @@
 This respository contains a list of papers about computer vision and artificial intellegence. A small summary is written for each paper. 
 
 _Created on 2016/12/14_
-
+* Added on 2016/12/16
+  * papers about texture synthesis 
+    * Texture Synthesis Using Convolutional Neural Networks
 * Added on 2016/12/14
   * papers about neural style transfer 
     * A Neural Algorithm of Artistic Style 
