@@ -18,7 +18,7 @@
       * Feature Reconstruction Loss: Euclidean distance between feature representations of content 	   image and output image.
       * Style Reconstruction Loss: 
 
-## result: 
+* result: 
 ## important details: 
 
 # Page-by-Page walk-through 
