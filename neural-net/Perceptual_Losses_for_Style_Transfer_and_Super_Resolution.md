@@ -21,7 +21,7 @@
         * The size of gram matrix is [C * C]. C is the channel number of j th layer. 
         * Take the activations at j th layer and reshape it as one-dimension vector
         * Take pairs of activations from style image and output image, performs scalar product and sum it up as an element of gram matrix. 
-      * The total loss is a weighted sum of content and style losses of all layers.
+      * The total loss is a weighted sum of content and style losses of selected layers.
 
 * result: 
 * important details: 
