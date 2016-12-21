@@ -15,7 +15,7 @@
   * Loss Network
     * A pre-trained VGG-16 network on imageNet dataset.
     * Two kinds of losses:
-      * Feature Reconstruction Loss: Average Euclidean distance between feature representations of content 	   image and output image.
+      * Feature Reconstruction Loss: Average Euclidean distance between feature representations of content image and output image.
       * Style Reconstruction Loss:  
 
 * result: 
