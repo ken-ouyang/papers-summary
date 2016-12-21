@@ -41,9 +41,6 @@
 
 * Some test result on Chinese-Painting style 
 
-![02.jpg]({{site.baseurl}}/neural-net/02.jpg)
-![10.jpg]({{site.baseurl}}/neural-net/10.jpg)
-![022_05.jpg]({{site.baseurl}}/neural-net/022_05.jpg)
 
 
 
