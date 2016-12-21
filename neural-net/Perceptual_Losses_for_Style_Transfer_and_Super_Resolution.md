@@ -19,7 +19,7 @@
       * Style Reconstruction Loss: 
 
 * result: 
-## important details: 
+* important details: 
 
 # Page-by-Page walk-through 
 
