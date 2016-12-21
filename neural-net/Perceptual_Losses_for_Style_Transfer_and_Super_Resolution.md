@@ -9,8 +9,14 @@
 * how: 
   * Two basic components: image transformation network and loss network 
   * Image transformation networks： follow the architectural guidelines of DCGAN 
-    * For style transfer: 
-  * 
+    * For style transfer: A convolutional layer with stride 1, Two convolutional layer with stride 2, 
+    Five residual blocks, Two convolutional layers with stride 1/2. More details can be found in the [supplimentary matirials](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16Supplementary.pdf)   
+    * Why using stride 2 to resize the image:  fast computing and larger respective field size  
+  * Loss Network
+    * A pre-trained VGG-16 network on imageNet dataset.
+    * Two kinds of losses:
+      * Feature Reconstruction Loss: Euclidean distance between feature representations of content 	   image and output image.
+      * Style Reconstruction Loss: 
 
 ## result: 
 ## important details: 
