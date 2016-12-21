@@ -14,14 +14,14 @@
     * Why using stride 2 to resize the image:  fast computing and larger respective field size  
   * Loss Network
     * A pre-trained VGG-16 network on imageNet dataset.
-    * Two kinds of losses:
-      * Feature Reconstruction Loss: Average Euclidean distance between feature representations of content image and output image.
-      * Style Reconstruction Loss: Euclidean distance between Gram Matrix of style image and output image. 
-      * How to calculate Gram matrix: 
-        * The size of gram matrix is [C * C]. C is the channel number of j th layer. 
-        * Take the activations at j th layer and reshape it as one-dimension vector
-        * Take pairs of activations from style image and output image, performs scalar product and sum it up as an element of gram matrix. 
-      * The total loss is a weighted sum of content and style losses of selected layers.
+    * Feature Reconstruction Loss: Average Euclidean distance between feature representations of content image and output image.
+    * Style Reconstruction Loss: Euclidean distance between Gram Matrix of style image and output image. 
+    * How to calculate Gram matrix: 
+      * The size of gram matrix is [C * C]. C is the channel number of j th layer. 
+      * Take the activations at j th layer and reshape it as one-dimension vector
+      * Take pairs of activations from style image and output image, performs scalar product and sum it up as an element of gram matrix. 
+    * The total loss is a weighted sum of content and style losses of selected layers.
+![Structure Of Nets]({{site.baseurl}}/neural-net/Screenshot from 2016-12-21 17:07:49.png)
 
 * result: 
 * important details: 
