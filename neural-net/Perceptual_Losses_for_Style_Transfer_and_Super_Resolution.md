@@ -22,10 +22,10 @@
       * Take pairs of activations from style image and output image, performs scalar product and sum it up as an element of gram matrix. 
     * The total loss is a weighted sum of content and style losses of selected layers.
     * The total loss is regularized by total variation regularizer
-![Structure Of Nets]({{site.baseurl}}/neural-net/Screenshot from 2016-12-21 17:07:49.png)
+![Structure Of Nets]({{site.baseurl}}/Screenshot from 2016-12-21 17:07:49.png)
    
 * result: 
-  ![Screenshot from 2016-12-21 17:25:22.png]({{site.baseurl}}/neural-net/Screenshot from 2016-12-21 17:25:22.png)
+  ![Screenshot from 2016-12-21 17:25:22.png]({{site.baseurl}}/Screenshot from 2016-12-21 17:25:22.png)
 
 
 * important details: 
