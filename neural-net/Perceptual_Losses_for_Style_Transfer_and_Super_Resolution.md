@@ -4,9 +4,9 @@
 * Implementation: [torch](https://github.com/jcjohnson/fast-neural-style), [tensorflow](https://github.com/lengstrom/fast-style-transfer)
 
 # Summary 
-* what:
+* What:
   * Combining the advantages of feed-forward NN (per-pixel loss) method and optimization-based method (perceptual loss) method. Their network can get a comparable result to optimization-based method in real-time.
-* how: 
+* How: 
   * Two basic components: image transformation network and loss network 
   * Image transformation networks： follow the architectural guidelines of DCGAN 
     * For style transfer: A convolutional layer with stride 1, Two convolutional layer with stride 2, 
