@@ -25,7 +25,7 @@
 ![Structure Of Nets](/Screenshot from 2016-12-21 17:07:49.png)
    
 * result: 
-  ![Screenshot from 2016-12-21 17:25:22.png](/Screenshot from 2016-12-21 17:25:22.png)
+  ![result.png](/results_ffpl.png)
 
 
 * important details: 
