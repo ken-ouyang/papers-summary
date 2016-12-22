@@ -40,7 +40,9 @@
 # Test Result
 
 * Some test result on Chinese-Painting style 
-![Structure Of Nets](images/structure_ffpl.png)
+![content](images/content1_ffpl.jpg)
+![style](images/style1_ffpl.jpg)
+![result](images/result1_ffpl.jpg)
 
 
 
