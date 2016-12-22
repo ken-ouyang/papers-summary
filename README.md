@@ -6,6 +6,8 @@ _Created on 2016/12/14_
 * Added on 2016/12/22
   * Visualizing and Understanding Convolutional Networks
   * Pixel Recurrent Neural Networks
+  * Sequence to Sequence Learning with Neural Networks
+  * Long short-term memory
 * Added on 2016/12/16
   * papers about texture synthesis 
     * Texture Synthesis Using Convolutional Neural Networks
