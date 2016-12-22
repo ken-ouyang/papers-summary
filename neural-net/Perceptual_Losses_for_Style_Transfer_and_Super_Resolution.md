@@ -22,10 +22,10 @@
       * Take pairs of activations from style image and output image, performs scalar product and sum it up as an element of gram matrix. 
     * The total loss is a weighted sum of content and style losses of selected layers.
     * The total loss is regularized by total variation regularizer
-![Structure Of Nets](/images/structure_ffpl.png)
+![Structure Of Nets](images/structure_ffpl.png)
    
 * result: 
-  ![result.png](/images/result_ffpl.png)
+  ![result.png](images/result_ffpl.png)
 
 
 * important details: 
