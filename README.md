@@ -13,12 +13,12 @@ _Created on 2016/12/14_
     * Texture Synthesis Using Convolutional Neural Networks
 * Added on 2016/12/14
   * papers about neural style transfer 
-    * A Neural Algorithm of Artistic Style 
+    * [A Neural Algorithm of Artistic Style](neural-net/A_Neural_Algorithm_Of_Artistic_Style.md)
     * Texture Networks: Feed-forward Synthesis of Textures and Stylized Images
     * [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](neural-net/Perceptual_Losses_for_Style_Transfer_and_Super_Resolution.md)
     * [A Learned Representation for Artisctic Style](neural-net/A_Learned_Representation_for_Artistic_Style.md)
     * [Instance Normalization: The Missing Ingredient for Fast Stylization](neural-net/Instance_Normalization.md)
-    * Preserving Color in Neural Artistic Style Transfer
+    * [Preserving Color in Neural Artistic Style Transfer](neural-net/Preserving_Color_In_Neural_Artistic_Style_Transfer)
     * Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis
   * papers about generative adversarial nets
     * Generative Adversarial Nets
