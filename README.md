@@ -32,16 +32,3 @@ _Created on 2016/12/14_
   * [Deep Learning](http://www.deeplearningbook.org/), MIT deep learning book
 
 * Note: The format of Readme.md is borrowed from [aluju/papers](https://github.com/aleju/papers)
-
-    
-  
-
-
-
-
-
-
-
-
-
-
