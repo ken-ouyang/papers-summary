@@ -25,7 +25,7 @@
 ![Structure Of Nets](/images/structure_ffpl.png)
    
 * result: 
-  ![result.png](/images/results_ffpl.png)
+  ![result.png](/images/result_ffpl.png)
 
 
 * important details: 
