@@ -40,6 +40,7 @@
 # Test Result
 
 * Some test result on Chinese-Painting style 
+* important details: batch size 1
 ![content](images/content1_ffpl.jpg)
 ![style](images/style1_ffpl.jpg)
 ![result](images/result1_ffpl.jpg)
