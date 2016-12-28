@@ -10,6 +10,7 @@
   * Seems that DC(Res)GAN performs out of the other two net
 * A more advanced version: 
   * [Multi-Style Transfer](G and D same as DC(Res)GAN while using the conditional instance normalization)
+  
 # Ideas
 * The loss function: perceptual loss and content loss (now all use the loss function in the first paper) (how about new loss function? )
 * Improve the feed-forward network (pooling layers / deconvolution layers -> decoder net / I-to-I layer)
