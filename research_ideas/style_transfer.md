@@ -3,7 +3,7 @@
 * Then three feed-forward methods:
   * Use the loss function proposed in the first method
   * Three different transformation networks
-    * [DC(Res)GAN]()
+    * [DC(Res)GAN](../neural-net/Perceptual_Losses_for_Style_Transfer_and_Super_Resolution.md)
       * Generative Net: pre-conv + two ds-conv + five res-block + two fs-convDisc
       * Discriminative Net: VGG-16
     * [MGAN]()
@@ -19,10 +19,11 @@
   
 # Ideas
 * The loss function: 
-  * perceptual loss
-  * content loss 
+  * perceptual loss (Gram Matrix ? )
+  * content loss （Euclidean Difference of high-level features ?）
 * Improve the feed-forward network 
-  * pooling layers / deconvolution layers -> decoder net / I-to-I layer
-  (new structures for the network)
+  * pooling layers / deconvolution layers -> I-to-I layer
+  * conditional instance normalization -> improvement
+  * using pixelRNN/CNN net 
 * A new net for multiple styles ()
-* How to apply reinforcement learning to this task
+* Apply RL
