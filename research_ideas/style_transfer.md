@@ -1,6 +1,9 @@
 # A summary on the state-of-art methods: 
 * The first method: a neural style transfer algorithm(based on optimization)
-* Then 
+* Then three feed-forward methods: 
+  * []
+  * []
+  * []
 
 # Some Thoughts
 * The loss function: perceptual loss and content loss (now all use the loss function in the first paper) (how about new loss function? )
