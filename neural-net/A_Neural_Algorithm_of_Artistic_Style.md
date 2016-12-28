@@ -1,4 +1,4 @@
-# Information 
+# Information
 * Paper: [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576v2.pdf)
 * Author: Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
 * Implementation: [tensorflow](https://github.com/anishathalye/neural-style), [torch](https://github.com/jcjohnson/neural-style)
@@ -20,7 +20,7 @@
     * The size of gram matrix is [C * C]. C is the channel number of j th layer.
     * Take the activations at j th layer and reshape it as one-dimension vector
     * Take pairs of activations from style image and output image, performs scalar product and sum it up as an element of gram matrix.
-![Structure Of Nets](images/structure_neural_style.png)
+  * ![Structure Of Nets](images/structure_neural_style.png)
 * results:
   * Different Styles
   ![result1](images/result1_neural_style.png)
