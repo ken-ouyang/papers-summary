@@ -11,14 +11,19 @@
   * Feed the white noise image into the VGG network. Calculate the content and style loss based on the previously extracted activations.
   Back-pro the loss and update the noisy image. Then feed the updated image into the VGG network. Repeat this for several iterations(eg: 1000)
   * How to calculate content loss:Average Euclidean distance between feature representations of content image and output image.
-  * How to calculate style loss: Euclidean distance between Gram Matrix of style image and output image. 
+  * How to calculate style loss: Euclidean distance between Gram Matrix of style image and output image.
   * How to calculate Gram Matrix:  
     * The size of gram matrix is [C * C]. C is the channel number of j th layer.
     * Take the activations at j th layer and reshape it as one-dimension vector
     * Take pairs of activations from style image and output image, performs scalar product and sum it up as an element of gram matrix.
-
+![Structure Of Nets](images/structure_neural_style)
 * results:
+  * Sample Results
+  ![Structure Of Nets](images/result1_neural_style)
+  * Results under different parameters settings
+  ![Structure Of Nets](images/result2_neural_style)
 * important details:
   * They replaced max pooling with average pooling
 
-# Page-by-Page Walkthrough
+# Page-by-Page walk-through
+# Test Results of Chinese Painting Style
