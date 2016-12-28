@@ -1,3 +1,7 @@
+# Information 
+* Paper: [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576v2.pdf)
+* Author: Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
+* Implementation: [tensorflow](https://github.com/anishathalye/neural-style), [torch](https://github.com/jcjohnson/neural-style)
 
 # Summary
 * what:
