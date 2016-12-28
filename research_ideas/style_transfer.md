@@ -1,5 +1,5 @@
 # A summary on the state-of-art methods: 
-* The first method: a neural style transfer algorithm(based on optimization)
+* The first method: a [neural style transfer algorithm](../neural-net/A_Neural_Algorithm_of_Artistic_Style.md)(based on optimization)
 * Then three feed-forward methods:
   * Use the loss function proposed in the first method
   * Three different transformation networks
