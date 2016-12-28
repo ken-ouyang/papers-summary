@@ -7,7 +7,7 @@
         Discriminative Net: VGG-16
     * [MGAN]()Generative Net: VGG-16 ReLU4_1 + conv + 3 fs-conv Discriminative Net: for texture(style)  add a conv layer after VGG-16 ReLU3_1 for training
     * [Texure_Net]()Generative Net : multi-scale input， k-level input and join the feature by the weighted sum, Discriminative Net: VGG-16
-  * Seems that DC(Res)GAN performs out of the other two net
+  * Seems that DC(Res)GAN performs out of the other two nets
 * A more advanced version: 
   * [Multi-Style Transfer](G and D same as DC(Res)GAN while using the conditional instance normalization)
   
