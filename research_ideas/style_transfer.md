@@ -18,8 +18,11 @@
     * G and D same as DC(Res)GAN while using the conditional instance normalization
   
 # Ideas
-* The loss function: perceptual loss and content loss (now all use the loss function in the first paper) (how about new loss function? )
-* Improve the feed-forward network (pooling layers / deconvolution layers -> decoder net / I-to-I layer)
+* The loss function: 
+  * perceptual loss
+  * content loss 
+* Improve the feed-forward network 
+  * pooling layers / deconvolution layers -> decoder net / I-to-I layer
   (new structures for the network)
 * A new net for multiple styles ()
 * How to apply reinforcement learning to this task
