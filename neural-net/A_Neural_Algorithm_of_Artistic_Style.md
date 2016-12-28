@@ -16,12 +16,12 @@
     * The size of gram matrix is [C * C]. C is the channel number of j th layer.
     * Take the activations at j th layer and reshape it as one-dimension vector
     * Take pairs of activations from style image and output image, performs scalar product and sum it up as an element of gram matrix.
-![Structure Of Nets](images/structure_neural_style)
+![Structure Of Nets](images/structure_neural_style.png)
 * results:
-  * Sample Results
-  ![Structure Of Nets](images/result1_neural_style)
-  * Results under different parameters settings
-  ![Structure Of Nets](images/result2_neural_style)
+  * Different Styles
+  ![result1](images/result1_neural_style.png)
+  * Different parameters
+  ![Structure Of Nets](images/result2_neural_style.png)
 * important details:
   * They replaced max pooling with average pooling
 
