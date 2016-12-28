@@ -25,5 +25,7 @@
   * pooling layers / deconvolution layers -> I-to-I layer
   * conditional instance normalization -> improvement
   * using pixelRNN/CNN net 
-* A new net for multiple styles ()
-* Apply RL
+  * one encoder two decoders (problem: hwo to train the style image decoder)
+  * a coarse to fine method (from high level to low level features)
+  * training a net to distinguish different styles and using the features of this net to calculate style loss 
+* Apply RL（How to define a reward）
