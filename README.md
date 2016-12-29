@@ -1,18 +1,21 @@
 # papers-summary
-## About 
-This respository contains a list of papers about computer vision and artificial intellegence. A small summary is written for each paper. 
+## About
+This respository contains a list of papers about computer vision and artificial intellegence. A small summary is written for each paper.
 
 _Created on 2016/12/14_
+
+* Added on 2016/12/29
+  * Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks
 * Added on 2016/12/22
   * Visualizing and Understanding Convolutional Networks
   * Pixel Recurrent Neural Networks
   * Sequence to Sequence Learning with Neural Networks
   * Long short-term memory
 * Added on 2016/12/16
-  * papers about texture synthesis 
+  * papers about texture synthesis
     * Texture Synthesis Using Convolutional Neural Networks
 * Added on 2016/12/14
-  * papers about neural style transfer 
+  * papers about neural style transfer
     * [A Neural Algorithm of Artistic Style](neural-net/A_Neural_Algorithm_of_Artistic_Style.md)
     * [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](neural-net/Texture_Networks.md)
     * [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](neural-net/Perceptual_Losses_for_Style_Transfer_and_Super_Resolution.md)
@@ -28,8 +31,8 @@ _Created on 2016/12/14_
     * Conditional Image Generation with PixelCNN Decoders
     * Context Encoders: Feature Learning by Inpainting
     * SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
-    
-* Learning Materials 
+
+* Learning Materials
   * [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks), taught by Hinton
   * [Machine Learning](https://www.coursera.org/learn/machine-learning), taught by Andrew Ng, [here](http://cs229.stanford.edu/materials.html) is the course material
   * [Build Intelligent Applications](https://www.coursera.org/specializations/machine-learning), a more advanced machine learning course
