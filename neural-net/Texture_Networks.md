@@ -9,11 +9,11 @@
   * Two Components: Generator network and Descriptor network
   * Generator network:
     * The basic structure
-    ![basic_structure](images/Texture_Net/structure1.png)
+    * ![basic_structure](images/Texture_Net/structure1.png)
     * Join Block
-    ![basic_structure](images/Texture_Net/structure2.png)
+    * ![basic_structure](images/Texture_Net/structure2.png)
     * Conv Block
-    ![basic_structure](images/Texture_Net/structure3.png)
+    * ![basic_structure](images/Texture_Net/structure3.png)
   * Descriptor network:
     * A pre-trained VGG-16 network on imageNet dataset
     * Texture loss: refer to the style loss in this [paper](A_Neural_Algorithm_of_Artistic_Style.md)
@@ -32,5 +32,7 @@
     * Adam
     * learning rate 0.1, reduced by a factor 0.7 for an iteration 1000 and then again for every 200 iterations.
     * Max iteration: 2000
+    
 # Page-by-Page walk-through
+
 # Test Results of Chinese Painting Style
