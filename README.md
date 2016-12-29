@@ -38,5 +38,6 @@ _Created on 2016/12/14_
   * [Build Intelligent Applications](https://www.coursera.org/specializations/machine-learning), a more advanced machine learning course
   * [CS231n:Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), a excellent deep learning course in stanford university
   * [Deep Learning](http://www.deeplearningbook.org/), MIT deep learning book
+  * [Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), taught by David Silver
 
 * Note: The format of Readme.md is borrowed from [aluju/papers](https://github.com/aleju/papers)
