@@ -14,7 +14,7 @@ _Created on 2016/12/14_
 * Added on 2016/12/14
   * papers about neural style transfer 
     * [A Neural Algorithm of Artistic Style](neural-net/A_Neural_Algorithm_of_Artistic_Style.md)
-    * [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](neural-net/Texture_Networks)
+    * [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](neural-net/Texture_Networks.md)
     * [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](neural-net/Perceptual_Losses_for_Style_Transfer_and_Super_Resolution.md)
     * [A Learned Representation for Artisctic Style](neural-net/A_Learned_Representation_for_Artistic_Style.md)
     * [Instance Normalization: The Missing Ingredient for Fast Stylization](neural-net/Instance_Normalization.md)
