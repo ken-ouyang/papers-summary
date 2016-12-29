@@ -7,7 +7,3 @@
 * what:
 * how:
 * results:
-
-# Page-by-Page walk-through
-
-# Test Results
