@@ -9,20 +9,20 @@
   * Two Components: Generator network and Descriptor network
   * Generator network:
     * The basic structure
-    * ![basic_structure](images/Texture_Net/structure1.png)
+    ![basic_structure](images/Texture_Net/structure1.png)
     * Join Block
-    * ![basic_structure](images/Texture_Net/structure2.png)
+    ![basic_structure](images/Texture_Net/structure2.png)
     * Conv Block
-    * ![basic_structure](images/Texture_Net/structure3.png)
+    ![basic_structure](images/Texture_Net/structure3.png)
   * Descriptor network:
     * A pre-trained VGG-16 network on imageNet dataset
     * Texture loss: refer to the style loss in this [paper](A_Neural_Algorithm_of_Artistic_Style.md)
     * Content loss: refer to the content loss in this [paper](A_Neural_Algorithm_of_Artistic_Style.md)
 * results:
   * Texture Synthesis
-  * ![basic_structure](images/Texture_Net/result1.png)
+  ![basic_structure](images/Texture_Net/result1.png)
   * Style Transfer
-  * ![basic_structure](images/Texture_Net/result2.png)
+  ![basic_structure](images/Texture_Net/result2.png)
 
 * important details:
   * When doing the texture synthesis, the input is only the white noise image. Only texture loss is calculated. While doing the style transfer, the white noise image is concatenated upon content image and both losses are calculated. Also, the number of pyramid height is increased from 5 to 6.
