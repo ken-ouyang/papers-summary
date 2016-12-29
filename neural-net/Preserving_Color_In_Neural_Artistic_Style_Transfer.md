@@ -1,7 +1,7 @@
 # Information
-* Paper: [A L EARNED R EPRESENTATION FOR A RTISTIC S TYLE](https://arxiv.org/pdf/1610.07629v3.pdf)
-* Author: Vincent Dumoulin, Jonathon Shlens, Manjunath Kudlur
-* Implementation: [tensorflow](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization)
+* Paper: [Preserving Color in Neural Artistic Style Transfer](https://arxiv.org/pdf/1606.05897v1.pdf)
+* Author: Leon A. Gatys, Matthias Bethge, Aaron Hertzmann, Eli Shechtman
+* Implementation:
 
 # Summary
 * what:
