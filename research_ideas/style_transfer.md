@@ -22,10 +22,11 @@
   * perceptual loss (Gram Matrix ? )
   * content loss （Euclidean Difference of high-level features ?）
 * Improve the feed-forward network 
-  * pooling layers / deconvolution layers -> I-to-I layer
+  * pooling layers / deconvolution layers -> End-to-End layer
   * conditional instance normalization -> improvement
   * using pixelRNN/CNN net 
   * one encoder two decoders (problem: hwo to train the style image decoder)
   * a coarse to fine method (from high level to low level features)
   * training a net to distinguish different styles and using the features of this net to calculate style loss 
+  * guided filter?
 * Apply RL（How to define a reward）
