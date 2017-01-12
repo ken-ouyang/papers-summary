@@ -39,5 +39,7 @@ _Created on 2016/12/14_
   * [CS231n:Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), a excellent deep learning course in stanford university
   * [Deep Learning](http://www.deeplearningbook.org/), MIT deep learning book
   * [Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT), taught by David Silver
+  * [2016 NIPS](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650721979&idx=2&sn=146a34534414fb4842398cac62cd201a&chksm=871b0ac5b06c83d3eeb71d5b39d74f9d5648d7e334039cf6d6a3d42b18856abc47ba229b8890&scene=0#rd)
+  * [GIT Xiv](http://www.gitxiv.com/)
 
 * Note: The format of Readme.md is borrowed from [aluju/papers](https://github.com/aleju/papers)
