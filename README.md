@@ -4,6 +4,8 @@ This respository contains a list of papers about computer vision and artificial 
 
 _Created on 2016/12/14_
 * Added on 2017/02/08
+  * Demystifying Neural Style Transfer
+  * Controlling Perceptual Factors in Neural Style Transfer
   * Generating images with recurrent adversarial networks
   * Deeply-Supervised Nets
 * Added on 2016/12/29
