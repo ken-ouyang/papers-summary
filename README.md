@@ -3,7 +3,9 @@
 This respository contains a list of papers about computer vision and artificial intellegence. A small summary is written for each paper.
 
 _Created on 2016/12/14_
-
+* Added on 2017/02/08
+  * Generating images with recurrent adversarial networks
+  * Deeply-Supervised Nets
 * Added on 2016/12/29
   * Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks
 * Added on 2016/12/22
