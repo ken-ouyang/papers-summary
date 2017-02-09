@@ -3,6 +3,9 @@
 This respository contains a list of papers about computer vision and artificial intellegence. A small summary is written for each paper.
 
 _Created on 2016/12/14_
+* Added on 2017/02/09
+  * Fast Patch-based Style Transfer of Arbitrary Style
+  * Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity
 * Added on 2017/02/08
   * Demystifying Neural Style Transfer
   * Controlling Perceptual Factors in Neural Style Transfer
