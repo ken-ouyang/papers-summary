@@ -50,3 +50,8 @@ _Created on 2016/12/14_
   * [GIT Xiv](http://www.gitxiv.com/)
 
 * Note: The format of Readme.md is borrowed from [aluju/papers](https://github.com/aleju/papers)
+
+| Date          | Member      | Topic                                                |
+| ------------- |-------------| -----------------------------------------------------|
+| 2017.2.21     | SU Jinhai   | Visualizing and Understanding Convolutional Networks |
+| 2017.2.28     | CONG Kai    | LSTM |
