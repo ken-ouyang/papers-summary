@@ -12,30 +12,26 @@ _Created on 2016/12/14_
     * [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](neural-net/Perceptual_Losses_for_Style_Transfer_and_Super_Resolution.md)
     * [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](neural-net/Texture_Networks.md)
     * Texture Synthesis Using Convolutional Neural Networks
+    * Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks
+    * [Instance Normalization: The Missing Ingredient for Fast Stylization](neural-net/Instance_Normalization.md)
   * Analysis 
     * Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity
+    * Demystifying Neural Style Transfer
   * Ehancement 
-* Added on 2017/02/09
-  
-* Added on 2017/02/08
-  * Demystifying Neural Style Transfer
-  * Controlling Perceptual Factors in Neural Style Transfer
+    * Controlling Perceptual Factors in Neural Style Transfer
+    * [Preserving Color in Neural Artistic Style Transfer](neural-net/Preserving_Color_In_Neural_Artistic_Style_Transfer.md)
+    * [A Learned Representation for Artisctic Style](neural-net/A_Learned_Representation_for_Artistic_Style.md)  
+    
+* Added on 2017/02/08  
   * Generating images with recurrent adversarial networks
   * Deeply-Supervised Nets
-* Added on 2016/12/29
-  * Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks
+  
 * Added on 2016/12/22
   * Visualizing and Understanding Convolutional Networks
   * Pixel Recurrent Neural Networks
   * Sequence to Sequence Learning with Neural Networks
   * Long short-term memory
 * Added on 2016/12/14
-  * papers about neural style transfer
-    * 
-    *
-    * [A Learned Representation for Artisctic Style](neural-net/A_Learned_Representation_for_Artistic_Style.md)
-    * [Instance Normalization: The Missing Ingredient for Fast Stylization](neural-net/Instance_Normalization.md)
-    * [Preserving Color in Neural Artistic Style Transfer](neural-net/Preserving_Color_In_Neural_Artistic_Style_Transfer.md)
   * papers about generative adversarial nets
     * Generative Adversarial Nets
     * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
