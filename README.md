@@ -9,11 +9,14 @@ _Created on 2016/12/14_
     * [Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](neural-net/Combining_Markov_Random_Fields_and_Convolutional_Neural_Networks_for_Image_Synthesis.md)
     * Fast Patch-based Style Transfer of Arbitrary Style
   * Feed Forward Method:
-    *  [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](neural-net/Perceptual_Losses_for_Style_Transfer_and_Super_Resolution.md)
+    * [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](neural-net/Perceptual_Losses_for_Style_Transfer_and_Super_Resolution.md)
+    * [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](neural-net/Texture_Networks.md)
+    * Texture Synthesis Using Convolutional Neural Networks
   * Analysis 
-  * 
+    * Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity
+  * Ehancement 
 * Added on 2017/02/09
-  * Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity
+  
 * Added on 2017/02/08
   * Demystifying Neural Style Transfer
   * Controlling Perceptual Factors in Neural Style Transfer
@@ -26,12 +29,9 @@ _Created on 2016/12/14_
   * Pixel Recurrent Neural Networks
   * Sequence to Sequence Learning with Neural Networks
   * Long short-term memory
-* Added on 2016/12/16
-  * papers about texture synthesis
-    * Texture Synthesis Using Convolutional Neural Networks
 * Added on 2016/12/14
   * papers about neural style transfer
-    * [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](neural-net/Texture_Networks.md)
+    * 
     *
     * [A Learned Representation for Artisctic Style](neural-net/A_Learned_Representation_for_Artistic_Style.md)
     * [Instance Normalization: The Missing Ingredient for Fast Stylization](neural-net/Instance_Normalization.md)
