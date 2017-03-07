@@ -8,8 +8,8 @@ _Created on 2016/12/14_
     * [A Neural Algorithm of Artistic Style](neural-net/A_Neural_Algorithm_of_Artistic_Style.md)
     * [Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](neural-net/Combining_Markov_Random_Fields_and_Convolutional_Neural_Networks_for_Image_Synthesis.md)
     * Fast Patch-based Style Transfer of Arbitrary Style
-* Added on 2017/02/09
   * 
+* Added on 2017/02/09
   * Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity
 * Added on 2017/02/08
   * Demystifying Neural Style Transfer
