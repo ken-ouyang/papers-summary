@@ -6,8 +6,10 @@ _Created on 2016/12/14_
 * Style Transfer:
   * Optimization-based Method:
     * [A Neural Algorithm of Artistic Style](neural-net/A_Neural_Algorithm_of_Artistic_Style.md)
+    * [Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](neural-net/Combining_Markov_Random_Fields_and_Convolutional_Neural_Networks_for_Image_Synthesis.md)
+    * Fast Patch-based Style Transfer of Arbitrary Style
 * Added on 2017/02/09
-  * Fast Patch-based Style Transfer of Arbitrary Style
+  * 
   * Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity
 * Added on 2017/02/08
   * Demystifying Neural Style Transfer
@@ -26,13 +28,11 @@ _Created on 2016/12/14_
     * Texture Synthesis Using Convolutional Neural Networks
 * Added on 2016/12/14
   * papers about neural style transfer
-    * [A Neural Algorithm of Artistic Style](neural-net/A_Neural_Algorithm_of_Artistic_Style.md)
     * [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](neural-net/Texture_Networks.md)
     * [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](neural-net/Perceptual_Losses_for_Style_Transfer_and_Super_Resolution.md)
     * [A Learned Representation for Artisctic Style](neural-net/A_Learned_Representation_for_Artistic_Style.md)
     * [Instance Normalization: The Missing Ingredient for Fast Stylization](neural-net/Instance_Normalization.md)
     * [Preserving Color in Neural Artistic Style Transfer](neural-net/Preserving_Color_In_Neural_Artistic_Style_Transfer.md)
-    * [Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](neural-net/Combining_Markov_Random_Fields_and_Convolutional_Neural_Networks_for_Image_Synthesis.md)
   * papers about generative adversarial nets
     * Generative Adversarial Nets
     * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
