@@ -3,6 +3,9 @@
 This respository contains a list of papers about computer vision and artificial intellegence. A small summary is written for each paper.
 
 _Created on 2016/12/14_
+* Style Transfer:
+  * Optimization-based Method:
+    * [A Neural Algorithm of Artistic Style](neural-net/A_Neural_Algorithm_of_Artistic_Style.md)
 * Added on 2017/02/09
   * Fast Patch-based Style Transfer of Arbitrary Style
   * Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity
