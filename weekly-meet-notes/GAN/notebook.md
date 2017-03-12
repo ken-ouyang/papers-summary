@@ -32,6 +32,9 @@
 ![GAN2](images/gan2.jpg)
 ![GAN3](images/gan3.jpg)
 
+### Training animition
+![gan](images/gan.gif)
+
 ### Generator Example (DCGAN)
 ![generator](images/generator.jpg)
 
