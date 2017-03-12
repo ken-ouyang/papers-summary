@@ -38,3 +38,4 @@
 ## Other Materials
 
 - [Slides for GAN](https://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-generative-models-and-adversarial-training-upc-2016)
+- [pix2pix demo](https://affinelayer.com/pixsrv/)
