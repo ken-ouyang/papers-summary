@@ -24,6 +24,7 @@
     * Sequential Game
 
   Minimax two-player game
+
   ![minimax](images/minimax_move_tree.gif)
 
 ### GAN Model Diagram
@@ -31,7 +32,8 @@
 ![GAN2](images/gan2.jpg)
 ![GAN3](images/gan3.jpg)
 
-
+### Generator Example (DCGAN)
+![generator](images/generator.jpg)
 
 ## Other Materials
 
