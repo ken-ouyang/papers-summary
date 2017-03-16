@@ -8,6 +8,8 @@ _Created on 2016/12/14_
     * [A Neural Algorithm of Artistic Style](neural-net/A_Neural_Algorithm_of_Artistic_Style.md)
     * [Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](neural-net/Combining_Markov_Random_Fields_and_Convolutional_Neural_Networks_for_Image_Synthesis.md)
     * Fast Patch-based Style Transfer of Arbitrary Style
+    * Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork
+    * Painting Style Transfer for Head Portraits using Convolutional Neural Networks
   * Feed Forward Method:
     * [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](neural-net/Perceptual_Losses_for_Style_Transfer_and_Super_Resolution.md)
     * [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](neural-net/Texture_Networks.md)
@@ -17,10 +19,17 @@ _Created on 2016/12/14_
   * Analysis 
     * Deep Convolutional Networks as Models of Generalization and Blending Within Visual Creativity
     * Demystifying Neural Style Transfer
+    * Exploring the Neural Algorithm of Artistic Style
   * Ehancement 
     * Controlling Perceptual Factors in Neural Style Transfer
     * [Preserving Color in Neural Artistic Style Transfer](neural-net/Preserving_Color_In_Neural_Artistic_Style_Transfer.md)
     * [A Learned Representation for Artisctic Style](neural-net/A_Learned_Representation_for_Artistic_Style.md)  
+  * Recently Proposed Traditional Method
+    * Style Transfer for Headshot Portraits
+    * Split and Match: Example-based adaptive Patch Sampling for Unsupervised Style Transfer
+  * Videos
+    * Artistic style transfer for videos
+    
     
 * Added on 2017/02/08  
   * Generating images with recurrent adversarial networks
