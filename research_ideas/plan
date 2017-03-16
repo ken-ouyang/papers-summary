@@ -1,16 +1,2 @@
-# 实验计划： 工笔画与国画风格 （细分类，人像，风景，鸟兽等）
-* 要做的实验有：
-  * 关于content loss和style loss的变种:
-    * style loss
-    * MRF layer. 将某一层的feature打散成patches 并且找出与style图片feature的最相似的patch。（on-going）（2天）
-    * GRAM Matrix （done）
-    * content loss
-    *
-  * 关于transformer
-    * res-net的几种形式
-  * 关于descriptor
-    * 收集水墨和工笔画的数据，分别建立两个data set （可以再细分类）（需要2-3天完成）， 以及测试数据和反例的生成
-    * 训练style descriptor的网络 （准确率达到一定程度）
-      * 直接用分类的loss作为style loss回传 （一类）
-      * 用descriptor提出的feature来计算style loss （单图特征）
-      * 作为RL好坏的标准
+ideas:
+
