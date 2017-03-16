@@ -22,6 +22,7 @@
 ## 对于人像特殊处理
 * 如果有人像关键点，可用于纠正错误的以及不该存在的matching（比如背景或者其他身体部位出现眼睛）
 * 可以先做人像的alignment
+* Matting以及加一些refinement
 ## 对于realistic photography的特殊处理
 * 白天变黑夜， 夏天变冬天
 ## 与其他算法结合
