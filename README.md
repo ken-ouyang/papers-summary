@@ -29,7 +29,14 @@ _Created on 2016/12/14_
     * Split and Match: Example-based adaptive Patch Sampling for Unsupervised Style Transfer
   * Videos
     * Artistic style transfer for videos
-    
+
+* Added on 2017/03/17
+  * Wasserstain GAN
+  * Loss Sensitive GAN
+  * Generative Temporal Models with Memory
+  * Playing atari with deep reinforcement learning 
+  * Human-level control through deep reinforcement learning 
+  * Continuous control with deep reinforcement learning
     
 * Added on 2017/02/08  
   * Generating images with recurrent adversarial networks
