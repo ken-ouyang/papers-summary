@@ -5,7 +5,6 @@
 * 可视化做feature match的过程，探究图像的大小,旋转等对于feature match的影响
 * 如果matching的confidence都不足 -- 如何去合理解决这个case
 * 改变matching的标准， 比如用gram-matrix， 或者一些其他标准来达到特殊效果
-* global的matching方式， 考虑周围的matching信息作为loss
 * 有了合理的matching过后，如何去利用, 已经提出的swap feature和per-pixel loss， 可不可能用于color transfer等一些其他的task
 ## 关于perceptual loss
 * 对于Gram-Matrix的理解, 如果去掉一些项或者增强一些项， 对于效果的影响
