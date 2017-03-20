@@ -1,4 +1,18 @@
 # ideas
+## 实验计划
+* 现在只做关于landscape的水墨风格的style transfer
+* 难点在于什么东西该舍弃,什么东西该保留 -- 需要一定的统计信息 这种信息并不是单张图就可以得到的
+* 先解决visualization的问题
+
+* 一个关于prisma的惊奇发现:
+  * 关于prisma的测试 图片大小在 1000 × 1000 只测试wave
+  * 各种颜色的纯色块 （蓝白黑黄等）
+  * 渐变映射（相同的颜色可以考虑横竖斜都各生成一张）
+  * 条纹
+  * 中文文字 （大 小 稀疏 密集）
+  * 英文文字 (大 小 稀疏 密集)
+  * 一些普通的图片
+  
 ## 关于patch-based loss
 * 做region的proposal， 对region来做match或者给同属一个region的patch加上一定的限制
 * 做多层以及multiscale的match 然后根据多层的结果以及各自的confidence来确定match的好坏
