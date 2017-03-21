@@ -23,6 +23,8 @@
   * 基本可以确定是用matching在做 
   * 可能用了比较低层的feature 或者 直接用过原图 -- 点保留的比较完整
   * 可能对style进行了augmentation
+  * 如何进行patch matching 以及如何利用相似性取得对应信息
+  * 如何进行multi scale的操作
   
 ## 关于patch-based loss
 * 做region的proposal， 对region来做match或者给同属一个region的patch加上一定的限制
