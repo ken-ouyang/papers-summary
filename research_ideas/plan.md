@@ -12,6 +12,17 @@
   * 中文文字 （大 小 稀疏 密集）
   * 英文文字 (大 小 稀疏 密集)
   * 一些普通的图片
+* 测试结果 highlight：
+  * 纯色块会生成纯色块， 而且生成的是与纯色块相近的style图中的颜色
+  * 对倾斜的角度不敏感， 可以准确match到边界
+  * 并不是完全把texture粘贴过来，感觉更像是基于content的变化
+  * 对位置不敏感， 相同的字在不同的位置， 大体变化是一样的， 但是细节有略微差异
+  * Deconvolution的网格效应在放大的情况下比较明显(SR + style transfer综合的task)
+  * 对边缘做过特殊处理 
+  
+  * 基本可以确定是用matching在做 
+  * 可能用了比较低层的feature 或者 直接用过原图 -- 点保留的比较完整
+  * 可能对style进行了augmentation
   
 ## 关于patch-based loss
 * 做region的proposal， 对region来做match或者给同属一个region的patch加上一定的限制
