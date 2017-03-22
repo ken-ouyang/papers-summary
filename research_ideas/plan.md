@@ -4,7 +4,7 @@
 * 难点在于什么东西该舍弃,什么东西该保留 -- 需要一定的统计信息 这种信息并不是单张图就可以得到的
 * 先解决visualization的问题
 
-* 一个关于prisma的惊奇发现:
+* 一个关于prisma的发现:
   * 关于prisma的测试 图片大小在 1000 × 1000 只测试wave
   * 各种颜色的纯色块 （蓝白黑黄等）
   * 渐变映射（相同的颜色可以考虑横竖斜都各生成一张）
@@ -14,6 +14,7 @@
   * 一些普通的图片
 * 测试结果 highlight：
   * 纯色块会生成纯色块， 而且生成的是与纯色块相近的style图中的颜色
+  * 输入style原图会输出与原图相似的feature
   * 对倾斜的角度不敏感， 可以准确match到边界
   * 并不是完全把texture粘贴过来，感觉更像是基于content的变化
   * 对位置不敏感， 相同的字在不同的位置， 大体变化是一样的， 但是细节有略微差异
@@ -25,6 +26,9 @@
   * 可能对style进行了augmentation
   * 如何进行patch matching 以及如何利用相似性取得对应信息
   * 如何进行multi scale的操作
+  
+  自测结果:
+  * 在conv3 + gram matrix确实在会生成与prisma类似的扭曲效果 如自己的'自'，但大多数字是没有太大变化的 -- gram matrix 可能是可行的但要多尝试
   
 ## 关于patch-based loss
 * 做region的proposal， 对region来做match或者给同属一个region的patch加上一定的限制
