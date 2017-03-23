@@ -29,7 +29,7 @@
   
   自测结果:
   * 在conv3 + gram matrix确实在会生成与prisma类似的扭曲效果 如自己的'自'，但大多数字是没有太大变化的 -- gram matrix 可能是可行的但要多尝试
-  * 需要测试的有 stride变化 + 
+  * 需要测试的有 stride变化 + 以及需不需要每一次都把image锁定到0-255
   
 ## 关于patch-based loss
 * 做region的proposal， 对region来做match或者给同属一个region的patch加上一定的限制
