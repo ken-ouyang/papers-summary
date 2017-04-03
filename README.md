@@ -29,7 +29,9 @@ _Created on 2016/12/14_
     * Split and Match: Example-based adaptive Patch Sampling for Unsupervised Style Transfer
   * Videos
     * Artistic style transfer for videos
-
+  * Recent Method 
+    * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+    * Deep Photo Style Transfer
 * Added on 2017/03/17
   * Wasserstain GAN
   * Loss Sensitive GAN
@@ -73,3 +75,4 @@ _Created on 2016/12/14_
 | ------------- |-------------| -----------------------------------------------------|
 | 2017.2.21     | SU Jinhai   | Visualizing and Understanding Convolutional Networks |
 | 2017.2.28     | CONG Kai    | LSTM |
+| 2017.4.4     | WANG Xianbo    | WGAN |
