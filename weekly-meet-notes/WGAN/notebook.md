@@ -1,3 +1,9 @@
+## Papers
+
+- [TOWARDS PRINCIPLED METHODS FOR TRAINING GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1701.04862.pdf) (2017.01)
+- [Wasserstein GAN](https://arxiv.org/pdf/1701.04862.pdf) (2017.01)
+- [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities](Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities) (2017.01)
+
 ## Wasserstein GAN
 
 ![WGAN Algo](images/WGAN_ALGO.png)
